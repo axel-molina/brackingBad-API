@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://axel-molina.github.io/csb-czts4/static/css/main.980b0e1c.chunk.css",
+    "main.js": "https://axel-molina.github.io/csb-czts4/static/js/main.e738bef4.chunk.js",
+    "main.js.map": "https://axel-molina.github.io/csb-czts4/static/js/main.e738bef4.chunk.js.map",
+    "runtime-main.js": "https://axel-molina.github.io/csb-czts4/static/js/runtime-main.369e3044.js",
+    "runtime-main.js.map": "https://axel-molina.github.io/csb-czts4/static/js/runtime-main.369e3044.js.map",
+    "static/js/2.c1a9ecc6.chunk.js": "https://axel-molina.github.io/csb-czts4/static/js/2.c1a9ecc6.chunk.js",
+    "static/js/2.c1a9ecc6.chunk.js.map": "https://axel-molina.github.io/csb-czts4/static/js/2.c1a9ecc6.chunk.js.map",
+    "index.html": "https://axel-molina.github.io/csb-czts4/index.html",
+    "static/css/main.980b0e1c.chunk.css.map": "https://axel-molina.github.io/csb-czts4/static/css/main.980b0e1c.chunk.css.map",
+    "static/js/2.c1a9ecc6.chunk.js.LICENSE.txt": "https://axel-molina.github.io/csb-czts4/static/js/2.c1a9ecc6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "https://axel-molina.github.io/csb-czts4/static/media/logo.4543bc50.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.369e3044.js",
+    "static/js/2.c1a9ecc6.chunk.js",
+    "static/css/main.980b0e1c.chunk.css",
+    "static/js/main.e738bef4.chunk.js"
+  ]
+}
